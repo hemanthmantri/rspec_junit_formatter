@@ -7,6 +7,7 @@
 
   [rspec]: http://rspec.info/
   [jenkins-junit]: https://jenkins.io/doc/pipeline/steps/junit/
+  [harness-junit]: https://developer.harness.io/docs/continuous-integration/use-ci/set-up-test-intelligence/test-report-ref/#ruby
   [buildkite-junit]: https://github.com/buildkite/rspec-junit-example
   [circleci-junit]: https://circleci.com/docs/2.0/collect-test-data/
   [gitlab-junit]: https://docs.gitlab.com/ee/ci/unit_test_reports.html#ruby-example
